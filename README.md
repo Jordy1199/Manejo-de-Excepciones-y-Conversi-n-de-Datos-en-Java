@@ -58,4 +58,4 @@ Sistema que convierte cantidades entre USD y EUR usando tasas de cambio hardcode
 
 ---
 
-*Programación Avanzada en Java — Jordy Cajas · 2026*
+*Programación Orientada a Objetos — Jordy Cajas · 2026*
